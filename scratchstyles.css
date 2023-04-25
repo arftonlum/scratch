@@ -1,0 +1,47 @@
+body{
+    background-color: cyan;
+    font-family: 'Courier New', Courier, monospace
+}
+
+ul{ 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a:hover{
+    text-decoration: green;
+
+}
+
+a:visited{
+    color: purple;
+}
+.community{
+    background-color: white;
+    border:2px solid tan;
+}
+.first{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 150px;
+}
+h1{
+    left:20px;
+}
+.larger{
+    top: 169px;
+    left: 20px;
+    right: 20px;
+    bottom: 90px;
+}
+
+.footer{
+    bottom: 10px;
+    left: 5px;
+    right: 5px;
+    height: 80px;
+    text-decoration: solid;
+}
+.end{
+    color:darkcyan;
+}
